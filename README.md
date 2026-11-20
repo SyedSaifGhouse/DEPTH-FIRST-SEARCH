@@ -1,5 +1,5 @@
 <h1>ExpNo 3 : Implement Breadth First Search Traversal of a Graph</h1> 
-<h3>Name: SYED SAIF SYED GHOUSE G S </h3>
+<h3>Name: SYED SAIF SYED GHOUSE </h3>
 <h3>Register Number: 212224230286 </h3>
 <H3>Aim:</H3>
 <p>To Implement Breadth First Search Traversal of a Graph using Python 3.</p>
@@ -66,8 +66,7 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 <li>Iterate steps 4 and 5 until all nodes get visited, and there are no more unvisited nodes.</li>
 
 </ol>
-**PROGRAM**
-
+<H3>PROGRAM</H3>
 ```
 from collections import deque
 from collections import defaultdict
